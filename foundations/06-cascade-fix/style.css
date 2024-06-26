@@ -8,16 +8,15 @@ body {
   font-weight: 800;
 }
 
-.small-para {
-  font-size: 14px;
-  font-weight: 800;
-}
-
 .para {
   font-size: 22px;
 }
+/*.small-para's text size kept remaining 22px unless I put it below .para. I'm guessing it has to be put in order (after .para) for .small-para's 14px text to show up.*/
+.small-para {
+  font-size: 14px;
+}
 
-.confirm {
+.button.confirm {
   background: green;
   color: white;
   font-weight: bold;
@@ -29,7 +28,7 @@ body {
   font-size: 20px;
 }
 
-.child {
+.text.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
