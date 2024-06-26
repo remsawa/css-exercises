@@ -1,0 +1,17 @@
+
+.c,
+.yc{
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px
+}
+
+.c{
+  color: #ffff;
+  background-color: #000000;
+  font-weight: bold;
+}
+
+.yc{
+  color:#000000;
+  background-color: #f5ff2e;
+}
