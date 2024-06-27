@@ -11,7 +11,7 @@ body {
 .para {
   font-size: 22px;
 }
-/*.small-para's text size kept remaining 22px unless I put it below .para. I'm guessing it has to be put in order (after .para) for .small-para's 14px text to show up.*/
+
 .small-para {
   font-size: 14px;
 }
